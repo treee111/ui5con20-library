@@ -8,5 +8,9 @@
 	},
 	"dependencies": {
 		"chartist": "^0.11.4"
+	},
+	"devDependencies": {
+		"@ui5/cli": "^2.14.2",
+		"eslint": "^8.5.0"
 	}
 }
